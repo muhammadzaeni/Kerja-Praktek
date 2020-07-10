@@ -1,0 +1,10 @@
+
+/*--- Responsinator Code ---*/
+body {
+	background : url("../images/login2.png") no-repeat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
