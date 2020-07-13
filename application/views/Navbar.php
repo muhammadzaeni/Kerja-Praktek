@@ -70,8 +70,8 @@
                     </li>
                     <li><a class="waves-effect"><i class="fa fa-users"></i> Input Data Dosen <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="#" class="waves-effect"><i class="fa fa-table fa-fw" aria-hidden="true"></i> Input Data Penelitian </a></li>
-                      <li><a href="#" class="waves-effect"><i class="fa fa-font fa-fw" aria-hidden="true"></i> Input Data pengabdian </a></li>
+                      <li><a href="<?php echo base_url('Input_Penelitian') ?> " class="waves-effect"><i class="fa fa-table fa-fw" aria-hidden="true"></i> Input Data Penelitian </a></li>
+                      <li><a href="<?php echo base_url('Input_Pengabdian') ?> " class="waves-effect"><i class="fa fa-font fa-fw" aria-hidden="true"></i> Input Data pengabdian </a></li>
                     </ul>
                     <li><a class="waves-effect"><i class="fa fa-book"></i> Laporan <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
@@ -79,7 +79,7 @@
                       <li><a href="#" class="waves-effect"><i class="fa fa-font fa-fw" aria-hidden="true"></i> Laporan Data pengabdian </a></li>
                     </ul>
                     <li>
-                        <a href="<?php echo base_url('Login')?> " class="waves-effect"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i> Logout </a>
+                        <a href="<?php echo base_url('home/logout')?> " class="waves-effect"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i> Logout </a>
                     </li>
 
                 </ul>
