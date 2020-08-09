@@ -70,6 +70,7 @@
                     </li>
                     <li><a class="waves-effect"><i class="fa fa-users"></i> Input Data Dosen <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
+                    <li><a href="<?php echo base_url('Input_Dosen') ?> " class="waves-effect"><i class="fa fa-table fa-fw" aria-hidden="true"></i> Input Identitas Dosen</a></li>
                       <li><a href="<?php echo base_url('Input_Penelitian') ?> " class="waves-effect"><i class="fa fa-table fa-fw" aria-hidden="true"></i> Input Data Penelitian </a></li>
                       <li><a href="<?php echo base_url('Input_Pengabdian') ?> " class="waves-effect"><i class="fa fa-font fa-fw" aria-hidden="true"></i> Input Data pengabdian </a></li>
                     </ul>

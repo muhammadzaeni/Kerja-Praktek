@@ -94,7 +94,7 @@
    
 
             <div class="align-content-around">
-                <button  class="btn btn-primary fa fa-plus fa-2x" data-toggle="modal" data-target="#exampleModalLong">
+                <button  class="btn btn-primary fa fa-plus fa" data-toggle="modal" data-target="#exampleModalLong">
                 Tambah   
                 </button>
                 
